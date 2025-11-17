@@ -1,6 +1,6 @@
 # iOS сalculator
 
-Калькулятор с повторением воспроизведением дизайна iOS, написанный на Python с использованием PySide6.
+Калькулятор с повторением дизайна iOS, написанный на Python с использованием PySide6.
 
 ![Calculator Screenshot](screenshot.png)
 
